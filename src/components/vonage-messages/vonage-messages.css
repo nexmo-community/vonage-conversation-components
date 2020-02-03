@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+div {
+  font: 18px Helvetica, Arial;
+  line-height: 22pt;
+  padding-bottom: 0;
+}
+

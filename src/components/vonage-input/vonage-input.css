@@ -1,0 +1,19 @@
+:host {
+  display: block;
+}
+
+
+form input[type=text] {
+  font-size: 20px;
+  height: 35px;
+  padding: 0px;
+}
+
+button {
+  height: 35px;
+  background-color: blue;
+  color: white;
+  width: 75px;
+  position: relative;
+  font-size: 15px;
+}
